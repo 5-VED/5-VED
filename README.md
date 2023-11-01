@@ -24,6 +24,6 @@
 | **Go-to Stack** | |
 | Front-end: | <img src="https://skillicons.dev/icons?i=ts,tailwind,html,css,angular&perline=8" height="24" /> |
 | Back-end: | <img src="https://skillicons.dev/icons?i=ts,nest,nodejs,postgres,redis,mysql,mongodb&perline=8" height="24" /> | Swagger |
-| Tools: | <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,webpack&perline=8" height="24" /> | Postman |
+| Tools: | <img src="https://skillicons.dev/icons?i=vscode,github&perline=8" height="24" /> | Postman |
 | Others: | <img src="https://skillicons.dev/icons?i=docker&perline=8" height="24" /> | Yarn, JWT |
 | |
