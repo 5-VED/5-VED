@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm VED</h1>
-<p align="center">I am a passionate BaskEnd Developer primarily with Node Js and also FrontEnd Developer in Angular. In my working experience of around ~1.6 years i have worked on multiple projects and also created dummy projects for learning purpose. I love to learn new backend technologies currently i am learning concept of Microservices in Node Js.</p>
+<p align="left">I am a passionate BaskEnd Developer primarily as Node Js and also FrontEnd Developer in Angular. In my working experience of around ~1.6 years i have worked on multiple projects and also created dummy projects for learning purpose. I love to learn new backend technologies currently i am learning concept of Microservices in Node Js.</p>
 
 - 🌱 I’m currently learning **Nest Js, Microservices Course.**
 
@@ -24,6 +24,6 @@
 | **Go-to Stack** | |
 | Front-end: | <img src="https://skillicons.dev/icons?i=ts,tailwind,html,css,angular&perline=8" height="24" /> |
 | Back-end: | <img src="https://skillicons.dev/icons?i=ts,nest,nodejs,postgres,redis,mysql&perline=8" height="24" /> | Swagger |
-| Tools: | <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,githundesktop,webpack&perline=8" height="24" /> | Postman |
+| Tools: | <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,webpack&perline=8" height="24" /> | Postman |
 | Others: | <img src="https://skillicons.dev/icons?i=docker&perline=8" height="24" /> | Yarn, JWT |
 | |
