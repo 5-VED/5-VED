@@ -11,7 +11,7 @@
 <p align="left">
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/utsavdotpro)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ved-parmar-191739128/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/utsavdotpro)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4437468)
 [![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-00897B?style=for-the-badge&logo=google-meet&logoColor=white)](https://topmate.io/utsavdotpro)
