@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm VED</h1>
-<h3 align="center">I am a passionate BaskEnd Developer primarily with Node Js and also FrontEnd Developer in Angular. In my working experience of around ~1.6 years i have worked on multiple projects and also created dummy projects for learning purpose. I love to learn new backend technologies currently i am learning concept of Microservices in Node Js.</h3>
+<h1 align="left">Hi 👋, I'm VED</h1>
+<p align="center">I am a passionate BaskEnd Developer primarily with Node Js and also FrontEnd Developer in Angular. In my working experience of around ~1.6 years i have worked on multiple projects and also created dummy projects for learning purpose. I love to learn new backend technologies currently i am learning concept of Microservices in Node Js.</p>
 
 - 🌱 I’m currently learning **Nest Js, Microservices Course.**
 
@@ -12,11 +12,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ved-parmar-191739128/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/utsavdotpro)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4437468)
-[![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-00897B?style=for-the-badge&logo=google-meet&logoColor=white)](https://topmate.io/utsavdotpro)
 
-![](https://visitcount.itsvg.in/api?id=utsavdotpro&label=Views&color=12&icon=5&pretty=true)
 
 
 ## ⚡ Technologies
