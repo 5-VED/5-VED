@@ -9,7 +9,7 @@ Throughout my professional journey, I have built and delivered numerous producti
 - **Currently Learning:** NestJS Framework & Microservices Architecture
 - **Core Expertise:** Node.js, Express.js, MongoDB, Database Design
 - **Secondary Skills:** Angular Frontend Development
-- **Professional Contact:** parmarvedpro5@gmail.com
+- **Professional Contact:** ved.parmar.official@gmail.com
 
 ### Professional Network
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ved-parmar-191739128/)
