@@ -1,43 +1,48 @@
 # Ved Parmar
-## Senior Backend Developer | Node.js & Microservices Specialist
+## Backend Developer | Node.js & Express.js Specialist
 
-I am an experienced Backend Developer with 3+ years of professional expertise, specializing in Node.js ecosystem and scalable backend architectures. My core strength lies in designing and implementing robust server-side solutions, with additional frontend capabilities in Angular for full-stack development when required.
+I am an experienced Backend Developer with 3+ years of professional expertise, specializing in Node.js ecosystem and scalable backend architectures. My core strength lies in designing and implementing robust server-side solutions using Express.js, with additional frontend capabilities in Angular for full-stack development when required.
 
-Throughout my professional journey, I have architected and delivered numerous production-grade applications, focusing on performance optimization, scalable database design, and modern backend practices. I am currently specializing in microservices architecture and advanced backend frameworks to build enterprise-level solutions.
+Throughout my professional journey, I have built and delivered numerous production-grade applications, focusing on API development, database design, and backend optimization. I am currently expanding my expertise by learning NestJS framework and advanced microservices architecture patterns.
 
 ### Current Focus
-- **Advanced Specialization:** NestJS Framework & Enterprise Microservices Architecture
-- **Core Expertise:** Node.js, MongoDB, Express.js, Database Architecture
+- **Currently Learning:** NestJS Framework & Microservices Architecture
+- **Core Expertise:** Node.js, Express.js, MongoDB, Database Design
 - **Secondary Skills:** Angular Frontend Development
 - **Professional Contact:** parmarvedpro5@gmail.com
 
 ### Professional Network
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ved-parmar-191739128/)
 
+## Core Strengths
+
+### Backend Development Excellence
+- **API Development:** Expert in designing and implementing RESTful APIs with Node.js and Express.js
+- **Database Proficiency:** Strong experience with MongoDB, PostgreSQL, MySQL, and Redis for various use cases
+- **TypeScript Mastery:** Deep expertise in TypeScript for type-safe, maintainable backend applications
+- **Authentication & Security:** Proficient in implementing JWT-based authentication and security best practices
+
+### Technical Leadership
+- **System Design:** Capable of designing scalable backend architectures and database schemas
+- **Performance Optimization:** Experience in optimizing API performance and database queries
+- **Code Quality:** Strong focus on clean, maintainable code with proper error handling and documentation
+- **DevOps Integration:** Hands-on experience with Docker containerization and development workflows
+
 ## Technical Expertise
-
-### Core Technology
-| Category | Technologies |
-|----------|-------------|
-| **Primary Language** | <img src="https://skillicons.dev/icons?i=ts" height="24" /> TypeScript |
-
-### Technology Stack
-| Category | Technologies | Additional Tools |
-|----------|-------------|------------------|
-| **Frontend Development** | <img src="https://skillicons.dev/icons?i=ts,angular,html,css,tailwind&perline=5" height="24" /> | |
-| **Backend Development** | <img src="https://skillicons.dev/icons?i=ts,nodejs,nest,express&perline=4" height="24" /> | |
-| **Database Systems** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=4" height="24" /> | |
+| **Primary Language** | <img src="https://skillicons.dev/icons?i=ts" height="24" /> TypeScript | Advanced proficiency |
+| **Backend Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" height="24" /> | Production experience |
+| **Frontend Capabilities** | <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind&perline=4" height="24" /> | Full-stack development |
+| **Database Systems** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=4" height="24" /> | Multi-database expertise |
 | **Development Tools** | <img src="https://skillicons.dev/icons?i=vscode,github,docker&perline=3" height="24" /> | Postman, Swagger |
-| **Package Management** | | Yarn, npm |
-| **Authentication** | | JWT (JSON Web Tokens) |
+| **Learning Focus** | | NestJS, Microservices |
 
 ### Professional Experience
-- **Backend Architecture:** 3+ years of experience designing scalable RESTful APIs, microservices, and database systems
-- **Technology Leadership:** Expertise in Node.js ecosystem, database optimization, and server-side performance tuning
-- **Full-Stack Capabilities:** Proficient in Angular for comprehensive end-to-end development when required
-- **Project Delivery:** Successfully architected and deployed multiple enterprise-level applications
-- **Continuous Innovation:** Actively implementing cutting-edge practices in microservices and cloud-native development
+- **Backend Development:** 3+ years of experience building RESTful APIs, database design, and server-side applications
+- **Technology Stack:** Proficient in Node.js, Express.js, and various database technologies
+- **Full-Stack Capabilities:** Competent in Angular for comprehensive web application development
+- **Project Delivery:** Successfully developed and deployed multiple production applications
+- **Continuous Learning:** Currently expanding skills in NestJS and microservices architecture
 
 ---
 
-*Seeking opportunities to architect scalable backend solutions and mentor development teams in enterprise environments.*
+*Open to new opportunities in backend development and eager to contribute to innovative projects while continuing to grow my technical expertise.*
