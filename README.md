@@ -27,14 +27,19 @@ Throughout my professional journey, I have built and delivered numerous producti
 - **Code Quality:** Strong focus on clean, maintainable code with proper error handling and documentation
 - **DevOps Integration:** Hands-on experience with Docker containerization and development workflows
 
-## Technical Expertise
-| **Primary Language** | <img src="https://skillicons.dev/icons?i=ts" height="24" /> TypeScript | Advanced proficiency |
-| **Backend Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" height="24" /> | Hapi.js, GraphQL |
-| **Frontend Basics** | <img src="https://skillicons.dev/icons?i=html&perline=1" height="24" /> | Basic HTML knowledge |
-| **Database Systems** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=4" height="24" /> | Sequelize ORM |
-| **Version Control & CI/CD** | <img src="https://skillicons.dev/icons?i=github,gitlab&perline=2" height="24" /> | Bitbucket |
-| **Development Tools** | <img src="https://skillicons.dev/icons?i=vscode,docker&perline=2" height="24" /> | Postman, Swagger, Jira |
-| **Learning Focus** | | NestJS, Microservices |
+| **Category**                | **Tools & Technologies**                                                                                                                                                                                                                                                                                                    | **Remarks**                         |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **Primary Languages**       | <img src="https://skillicons.dev/icons?i=ts" height="32" /> TypeScript    <img src="https://skillicons.dev/icons?i=javascript" height="32" /> JavaScript                                                                                                                                                                    | Advanced proficiency in both        |
+| **Backend Frameworks**      | <img src="https://skillicons.dev/icons?i=nodejs" height="32" /> Node.js    <img src="https://skillicons.dev/icons?i=nestjs" height="32" /> NestJS *(Learning)*                                                                                                                                                              | Node.js ecosystem expertise         |
+| **API & Server Frameworks** | <img src="https://skillicons.dev/icons?i=express" height="32" /> Express.js    <img src="https://raw.githubusercontent.com/hapijs/hapi/master/docs/images/hapi.png" height="32" /> Hapi.js    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height="32" /> GraphQL                        | REST & GraphQL API development      |
+| **Frontend Basics**         | <img src="https://skillicons.dev/icons?i=html" height="32" /> HTML                                                                                                                                                                                                                                                          | Basic markup skills                 |
+| **Database Systems**        | <img src="https://skillicons.dev/icons?i=mongodb" height="32" /> MongoDB    <img src="https://skillicons.dev/icons?i=postgres" height="32" /> PostgreSQL    <img src="https://skillicons.dev/icons?i=mysql" height="32" /> MySQL    <img src="https://skillicons.dev/icons?i=redis" height="32" /> Redis                    | ORM: Sequelize                      |
+| **Version Control & CI/CD** | <img src="https://skillicons.dev/icons?i=github" height="32" /> GitHub    <img src="https://skillicons.dev/icons?i=gitlab" height="32" /> GitLab    <img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/bitbucket.png" height="32" /> Bitbucket                                                           | Git workflows, version control      |
+| **Development Tools**       | <img src="https://skillicons.dev/icons?i=vscode" height="32" /> VS Code    <img src="https://skillicons.dev/icons?i=docker" height="32" /> Docker    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="32" /> Postman    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="32" /> Jira | Development, testing, collaboration |
+| **Learning Focus**          | <img src="https://skillicons.dev/icons?i=nestjs" height="32" /> NestJS    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="32" /> Microservices Architecture                                                                                                                                        |                                     |
+
+
+
 
 ### Professional Experience
 - **Backend Development:** 3+ years of experience building RESTful APIs, GraphQL endpoints, database design, and server-side applications
